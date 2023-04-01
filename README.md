@@ -1,2 +1,3 @@
 # Group_04_Project_NT106
-Restaurant Management
+Project: Restaurant Management.
+Excercise: TCP chat application.

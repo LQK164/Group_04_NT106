@@ -1,0 +1,12 @@
+D:\HOCTAP\winform_c#\MultichatApplication\bin\Debug\MultichatApplication.exe.config
+D:\HOCTAP\winform_c#\MultichatApplication\bin\Debug\MultichatApplication.exe
+D:\HOCTAP\winform_c#\MultichatApplication\bin\Debug\MultichatApplication.pdb
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.AssemblyReference.cache
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.frmClient.resources
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.Properties.Resources.resources
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.frmServer.resources
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.GenerateResource.cache
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.CoreCompileInputs.cache
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.exe
+D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.pdb

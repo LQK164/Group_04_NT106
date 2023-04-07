@@ -113,7 +113,7 @@ namespace MultichatApplication
                     UpdateChatHistorySafeCall(username, message);
                     if (byte_count == 0)
                     {
-                        listening = false;
+                        
                     }
                 }
             }

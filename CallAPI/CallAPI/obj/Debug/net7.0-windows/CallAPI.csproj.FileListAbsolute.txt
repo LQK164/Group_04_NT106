@@ -1,0 +1,17 @@
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\bin\Debug\net7.0-windows\CallAPI.exe
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\bin\Debug\net7.0-windows\CallAPI.deps.json
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\bin\Debug\net7.0-windows\CallAPI.runtimeconfig.json
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\bin\Debug\net7.0-windows\CallAPI.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\bin\Debug\net7.0-windows\CallAPI.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.Form1.resources
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.AssemblyInfo.cs
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\refint\CallAPI.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\CallAPI.genruntimeconfig.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\CallAPI\CallAPI\obj\Debug\net7.0-windows\ref\CallAPI.dll

@@ -1,0 +1,16 @@
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.csproj.AssemblyReference.cache
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.Form1.resources
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.Properties.Resources.resources
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.csproj.GenerateResource.cache
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.csproj.CoreCompileInputs.cache
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\CallingWebAPI.exe.config
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\CallingWebAPI.exe
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\CallingWebAPI.pdb
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\Newtonsoft.Json.xml
+D:\HOCTAP\winform_c#\CallingWebAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.csproj.CopyComplete
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.exe
+D:\HOCTAP\winform_c#\CallingWebAPI\obj\Debug\CallingWebAPI.pdb

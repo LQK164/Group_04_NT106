@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\CallAPI\\CallAPI\\CallAPI.csproj": {}
+    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\CallAPI\\CallAPI\\CallAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\CallAPI\\CallAPI\\CallAPI.csproj": {
+    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\CallAPI\\CallAPI\\CallAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\CallAPI\\CallAPI\\CallAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\CallAPI\\CallAPI\\CallAPI.csproj",
         "projectName": "CallAPI",
-        "projectPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\CallAPI\\CallAPI\\CallAPI.csproj",
+        "projectPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\CallAPI\\CallAPI\\CallAPI.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\CallAPI\\CallAPI\\obj\\",
+        "outputPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\CallAPI\\CallAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-CTIQ4C3\\AppData\\Roaming\\NuGet\\NuGet.Config",

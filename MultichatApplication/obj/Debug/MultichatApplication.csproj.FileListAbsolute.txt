@@ -10,3 +10,15 @@ D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.
 D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.csproj.CoreCompileInputs.cache
 D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.exe
 D:\HOCTAP\winform_c#\MultichatApplication\obj\Debug\MultichatApplication.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\bin\Debug\MultichatApplication.exe.config
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\bin\Debug\MultichatApplication.exe
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\bin\Debug\MultichatApplication.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.frmClient.resources
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.Properties.Resources.resources
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.frmServer.resources
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.exe
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\MultichatApplication\obj\Debug\MultichatApplication.pdb

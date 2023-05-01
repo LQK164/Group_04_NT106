@@ -1,0 +1,11 @@
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\bin\Debug\Telnet TCP listener.exe.config
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\bin\Debug\Telnet TCP listener.exe
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\bin\Debug\Telnet TCP listener.pdb
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.csproj.AssemblyReference.cache
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.csproj.SuggestedBindingRedirects.cache
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet_TCP_listener.TCPlistener.resources
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet_TCP_listener.Properties.Resources.resources
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.csproj.GenerateResource.cache
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.csproj.CoreCompileInputs.cache
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.exe
+D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.pdb

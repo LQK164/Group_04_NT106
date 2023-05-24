@@ -2,3 +2,4 @@
 Excercises: 
   + TCP chat application.
   + Call API.
+  + Socket programming

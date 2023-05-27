@@ -1,0 +1,18 @@
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.exe.config
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.exe
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.pdb
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.AssemblyReference.cache
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.SuggestedBindingRedirects.cache
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.Properties.Resources.resources
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.GenerateResource.cache
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.CoreCompileInputs.cache
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.exe
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.pdb
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.dll
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Newtonsoft.Json.dll
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.pdb
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.xml
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Newtonsoft.Json.xml
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.WebBrowser.resources
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.CopyComplete
+D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.Resource.resources

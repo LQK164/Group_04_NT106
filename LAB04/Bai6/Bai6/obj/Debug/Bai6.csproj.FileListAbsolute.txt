@@ -15,3 +15,20 @@ D:\HOCTAP\winform_c#\Lab4\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
 D:\HOCTAP\winform_c#\Lab4\Bai6\obj\Debug\Bai6.csproj.CopyComplete
 D:\HOCTAP\winform_c#\Lab4\Bai6\obj\Debug\Bai6.exe
 D:\HOCTAP\winform_c#\Lab4\Bai6\obj\Debug\Bai6.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\Bai6.exe.config
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\Bai6.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\Bai6.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\HtmlAgilityPack.dll
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\bin\Debug\HtmlAgilityPack.xml
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.csproj.SuggestedBindingRedirects.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.frmBai6.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.frmPage.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.Properties.Resources.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.ucNewsItem.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.csproj.GenerateResource.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.csproj.CopyComplete
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai6\Bai6\obj\Debug\Bai6.pdb

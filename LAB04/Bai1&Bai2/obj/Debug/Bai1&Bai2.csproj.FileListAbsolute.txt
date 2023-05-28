@@ -11,3 +11,16 @@ D:\Code\Bai1&Bai2\obj\Debug\Bai1&Bai2.exe
 D:\Code\Bai1&Bai2\obj\Debug\Bai1&Bai2.pdb
 D:\Code\Bai1&Bai2\obj\Debug\Bai1_Bai2.Bai2.resources
 D:\Code\Bai1&Bai2\obj\Debug\Bai1_Bai2.Menu.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\bin\Debug\Bai1&Bai2.exe.config
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\bin\Debug\Bai1&Bai2.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\bin\Debug\Bai1&Bai2.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.csproj.AssemblyReference.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1_Bai2.Bai1.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1_Bai2.Bai2.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1_Bai2.Menu.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1_Bai2.Properties.Resources.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.csproj.GenerateResource.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.csproj.CoreCompileInputs.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai1&Bai2\obj\Debug\Bai1&Bai2.pdb

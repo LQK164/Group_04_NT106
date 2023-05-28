@@ -14,9 +14,11 @@ using HtmlAgilityPack;
 namespace Lab4_WebBrowser
 {
     public partial class WebBrowser : Form
-    {
+    {   // Khai báo đối tượng WebBrowser
         System.Windows.Forms.WebBrowser webBrowser;
+        // Danh sách các liên kết đã truy cập
         List<string> links = new List<string>();
+        // Số lượng liên kết đã truy cập
         int countlinks = 0;
         public WebBrowser()
         {
@@ -25,17 +27,22 @@ namespace Lab4_WebBrowser
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            // Tạo một đối tượng WebBrowser mới thiết lập chiều dài chiều rộng hiển thị webBrowser 
             webBrowser = new System.Windows.Forms.WebBrowser();
             webBrowser.Height = 500;
             webBrowser.Width = 1080;
+            // Thêm đối tượng WebBrowser vào Panel pnWeb
             pnWeb.Controls.Add(webBrowser);
+            // Thêm đối tượng WebBrowser vào Panel pnWeb
             webBrowser.ScriptErrorsSuppressed = true;
         }
 
         private void btnGo_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(tbAddress.Text))
+                // Điều hướng đến địa chỉ URL được nhập
                 webBrowser.Navigate(tbAddress.Text);
+            // Lưu trữ liên kết đã truy cập vào danh sách
             links.Add(tbAddress.Text);
             countlinks++;
         }
@@ -43,8 +50,8 @@ namespace Lab4_WebBrowser
         private void btnDowHTML_Click(object sender, EventArgs e)
         {
             string url = tbAddress.Text; 
-            string folderPath = tbPath.Text; 
-
+            string folderPath = tbPath.Text;
+            // Tải và lưu nguồn của trang web
             DownloadWebsiteSource(url, folderPath);
             MessageBox.Show("Download completed!");
         }
@@ -56,7 +63,9 @@ namespace Lab4_WebBrowser
 
             // Lưu trữ nguồn (source) của trang web
             string source = document.DocumentNode.OuterHtml;
+            // Lấy tên tệp tin từ URL
             string fileName = Path.GetFileName(url);
+            // Kết hợp đường dẫn thư mục và tên tệp tin
             string filePath = Path.Combine(folderPath, fileName + ".html");
             File.WriteAllText(filePath, source);
 
@@ -98,9 +107,12 @@ namespace Lab4_WebBrowser
         private void btnViewSource_Click(object sender, EventArgs e)
         {
             string url = tbAddress.Text;
+            // Tải nguồn của trang web
             HtmlAgilityPack.HtmlWeb web = new HtmlAgilityPack.HtmlWeb();
             HtmlAgilityPack.HtmlDocument document = web.Load(url);
+            // Lưu trữ nguồn của trang web vào biến source
             string source = document.DocumentNode.OuterHtml;
+            // Hiển thị nguồn trong một cửa sổ Resource
             using (Resource viewSourceForm = new Resource())
             {
                 viewSourceForm.SetSource(source);

@@ -16,3 +16,21 @@ D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\bin\Debug\Newtonsof
 D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.WebBrowser.resources
 D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.CopyComplete
 D:\LTMCB\Project cuối kỳ\Lab4 WebBrowser\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.Resource.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.exe.config
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\Lab4 WebBrowser.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.AssemblyReference.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.Resource.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.WebBrowser.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4_WebBrowser.Properties.Resources.resources
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.GenerateResource.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.csproj.CopyComplete
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.exe
+C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Bai3\Lab4 WebBrowser\obj\Debug\Lab4 WebBrowser.pdb

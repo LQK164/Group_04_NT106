@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\": {}
+    "C:\\Users\\21521\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\Bai4\\Bai4\\Bai4.csproj",
+      "projectUniqueName": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
       "projectName": "Bai4",
-      "projectPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\Bai4\\Bai4\\Bai4.csproj",
-      "packagesPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\Bai4\\Bai4\\obj\\",
+      "projectPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
+      "packagesPath": "C:\\Users\\21521\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User.DESKTOP-CTIQ4C3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\21521\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -117,7 +117,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

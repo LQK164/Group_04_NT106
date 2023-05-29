@@ -23,9 +23,23 @@ namespace Bai1_Bai2
         {
             string URL = txt_URL.Text;
             string fileURL = txt_Destination.Text;
+            string WebHTML = "";
+            WebHTML = getHTML(txt_URL.Text);
+            txt_Content.Text = WebHTML;
             WebClient myClient = new WebClient();
             Stream response = myClient.OpenRead(URL);
             myClient.DownloadFile(URL, fileURL);
+        }
+
+        private string getHTML(string szURL)
+        {
+            WebRequest request = WebRequest.Create(szURL);
+            WebResponse response = request.GetResponse();
+            Stream dataStream = response.GetResponseStream();
+            StreamReader reader = new StreamReader(dataStream);
+            string responseFromServer = reader.ReadToEnd();
+            response.Close();
+            return responseFromServer;
         }
     }
 }

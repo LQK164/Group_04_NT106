@@ -24,6 +24,7 @@ namespace Bai4
             InitializeComponent();
         }
 
+        //Tạo thông tin cho các user bao gồm id, e-mail, first name, last name và avatar
         public class api_user
         {
             public int id { get; set; }
@@ -33,25 +34,29 @@ namespace Bai4
             public string avatar { get; set; }
         }
 
+        //Tạo thông tin form bao gồm page, user per page, total pages và total users
         public class api_response
         {
             public int page { get; set; }
             public int per_page { get; set; }
             public int total_users { get; set; }
             public int total_pages { get; set; }
+            //Khai báo tạo danh sách cho các user
             public List<api_user> data { get; set; }
         }
-
+        
         private readonly HttpClient httpClient = new HttpClient();
         api_response response = new api_response();
         int counting_page = 1;
 
+        //
         private void Form1_Load(object sender, EventArgs e)
         {
             flpn_upload.VerticalScroll.Visible = true;
             Get_api(counting_page);
         }
 
+        //Tạo hàm dùng để upload ảnh
         private Image Download(string url)
         {
             try
@@ -72,14 +77,15 @@ namespace Bai4
             }
 
         }
+        
         public async void Get_api(int page_count)
         {
             try
             {
-                var responding = await httpClient.GetAsync("https://reqres.in/api/users?page=" + page_count.ToString());
-                responding.EnsureSuccessStatusCode();
+                var responding = await httpClient.GetAsync("https://reqres.in/api/users?page=" + page_count.ToString()); //Gọi API từ đường link
+                responding.EnsureSuccessStatusCode(); // Kiểm tra trả về 200 OK
                 var json = await responding.Content.ReadAsStringAsync();
-                response = JsonConvert.DeserializeObject<api_response>(json);
+                response = JsonConvert.DeserializeObject<api_response>(json); // Thực hiện lấy data từ API
 
                 Page.Text = response.page.ToString();
                 user_per_page.Text = response.per_page.ToString();
@@ -118,7 +124,7 @@ namespace Bai4
                 MessageBox.Show($"Error: {ex.Message}");
             }
         }
-
+        //Thiết kế nút lùi
         private void btn_previous_Click(object sender, EventArgs e)
         {
             if (counting_page <= 0)
@@ -134,7 +140,7 @@ namespace Bai4
             }
 
         }
-
+        //Thiết kế nút tiến
         private void btn_next_Click(object sender, EventArgs e)
         {
             if (counting_page + 1 > response.total_pages)

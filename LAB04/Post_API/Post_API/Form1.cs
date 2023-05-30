@@ -1,4 +1,4 @@
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -19,6 +19,7 @@ namespace Post_API
         {
             InitializeComponent();
         }
+        //Tạo danh sách thông tin bao gồm email và password
         public class info
         {
             public string email { get; set; }
@@ -37,14 +38,15 @@ namespace Post_API
             {
                 try
                 {
+                    //Nhập email và password để trích xuất id và token từ 2 đối tượng trên
                     HttpResponseMessage response = await httpclient.PostAsJsonAsync(url,
                         new info(email: txt_email.Text, pass: txt_pass.Text));
-
+                    //Kiểm tra đường link nhập vào có trả về 200 OK hay không ?
                     if (response.IsSuccessStatusCode)
                     {
                         string responseContent = await response.Content.ReadAsStringAsync();
-                        dynamic json_response = JsonConvert.DeserializeObject<dynamic>(responseContent);
-
+                        dynamic json_response = JsonConvert.DeserializeObject<dynamic>(responseContent); // Thực hiện lấy data từ API trong đường link nhập vào
+                        //Thực hiện lấy ID và Token từ email và password
                         string token = json_response.token;
                         int id = json_response.id;
 

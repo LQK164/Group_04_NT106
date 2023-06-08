@@ -14,4 +14,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Post_API
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\
+=======
+build_property.ProjectDir = C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\
+>>>>>>> QuocKhanh

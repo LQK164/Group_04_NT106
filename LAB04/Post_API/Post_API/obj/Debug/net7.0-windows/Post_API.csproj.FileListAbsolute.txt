@@ -17,6 +17,7 @@ C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Post_API\Post_API\obj\Debug\net7.0
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.pdb
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.genruntimeconfig.cache
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Post_API\Post_API\obj\Debug\net7.0-windows\ref\Post_API.dll
+<<<<<<< HEAD
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.exe
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.deps.json
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.runtimeconfig.json
@@ -36,3 +37,24 @@ C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.pdb
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.genruntimeconfig.cache
 C:\Users\21521\OneDrive\Máy tính\lab04\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\ref\Post_API.dll
+=======
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.exe
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.deps.json
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.runtimeconfig.json
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Post_API.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.Form1.resources
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.AssemblyInfo.cs
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.csproj.CopyComplete
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\refint\Post_API.dll
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.pdb
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\Post_API.genruntimeconfig.cache
+C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Post_API\Post_API\obj\Debug\net7.0-windows\ref\Post_API.dll
+>>>>>>> QuocKhanh

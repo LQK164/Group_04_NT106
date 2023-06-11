@@ -20,3 +20,25 @@ C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\ne
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MailKit.dll
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MimeKit.dll
 C:\Users\User.DESKTOP-CTIQ4C3\Documents\LTMCB\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.CopyComplete
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.exe
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.deps.json
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.runtimeconfig.json
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.pdb
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.AssemblyReference.cache
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai_2_IMAP.IMAP.resources
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.GenerateResource.cache
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.AssemblyInfoInputs.cache
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.AssemblyInfo.cs
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.CoreCompileInputs.cache
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.CopyComplete
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\refint\Bai 2 IMAP.dll
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.pdb
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.genruntimeconfig.cache
+C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\ref\Bai 2 IMAP.dll

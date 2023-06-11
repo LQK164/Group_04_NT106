@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "G8DauF6tYsCfaxac2JQEuMqH9KuFI6T+L4q7WUDBQXpo27t4XNNJT2x5RRsPz6zwyMDkdQZ6xBooiaDQ2RxyZw==",
+  "dgSpecHash": "He7G7+ZMSa5wHl3ffIdzsamRRwWVsu8nRg2qTwfPehA2h6wdSbOgBRdn4BKex46QnNzVm51rckSWQHgC5NF6aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\LTMCB\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
+  "projectFilePath": "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\bouncycastle.cryptography\\2.1.1\\bouncycastle.cryptography.2.1.1.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\icsharpcode.sharpziplib.dll\\0.85.4.369\\icsharpcode.sharpziplib.dll.0.85.4.369.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\mailkit\\4.0.0\\mailkit.4.0.0.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\mimekit\\4.0.0\\mimekit.4.0.0.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.2\\system.security.cryptography.pkcs.6.0.2.nupkg.sha512",
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    "C:\\Users\\21521\\.nuget\\packages\\bouncycastle.cryptography\\2.1.1\\bouncycastle.cryptography.2.1.1.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\icsharpcode.sharpziplib.dll\\0.85.4.369\\icsharpcode.sharpziplib.dll.0.85.4.369.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\mailkit\\4.0.0\\mailkit.4.0.0.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\mimekit\\4.0.0\\mimekit.4.0.0.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.2\\system.security.cryptography.pkcs.6.0.2.nupkg.sha512",
+    "C:\\Users\\21521\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {

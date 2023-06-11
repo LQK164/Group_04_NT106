@@ -1,0 +1,15 @@
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.Form1.resources
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Lab05.exe.config
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Lab05.exe
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Lab05.pdb
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\OpenPop.dll
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.exe
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.pdb
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Mail.dll
+D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Mail.xml

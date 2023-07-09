@@ -13,3 +13,18 @@ D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.exe
 D:\LTMCB\Project cuối kỳ\Bai3\Lab05\obj\Debug\Lab05.pdb
 D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Mail.dll
 D:\LTMCB\Project cuối kỳ\Bai3\Lab05\bin\Debug\Mail.xml
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\Lab05.exe.config
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\Lab05.exe
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\Lab05.pdb
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\Mail.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\OpenPop.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\bin\Debug\Mail.xml
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.Form1.resources
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.exe
+D:\HOCTAP\Group4_NT106\LAB05\Bai3\Lab05\obj\Debug\Lab05.pdb

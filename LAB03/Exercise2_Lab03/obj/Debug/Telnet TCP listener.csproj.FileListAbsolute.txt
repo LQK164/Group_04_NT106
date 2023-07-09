@@ -9,3 +9,14 @@ D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.cs
 D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.csproj.CoreCompileInputs.cache
 D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.exe
 D:\LTMCB\Thực hành\Lab03\Telnet TCP listener\obj\Debug\Telnet TCP listener.pdb
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\bin\Debug\Telnet TCP listener.exe.config
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\bin\Debug\Telnet TCP listener.exe
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\bin\Debug\Telnet TCP listener.pdb
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.csproj.AssemblyReference.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet_TCP_listener.TCPlistener.resources
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet_TCP_listener.Properties.Resources.resources
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.csproj.GenerateResource.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.exe
+D:\HOCTAP\Group4_NT106\LAB03\Exercise2_Lab03\obj\Debug\Telnet TCP listener.pdb

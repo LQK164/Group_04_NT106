@@ -18,7 +18,7 @@ namespace Bai4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBai4());
+            Application.Run(new frmClient());
         }
     }
 }

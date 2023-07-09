@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {}
+    "D:\\HOCTAP\\Group4_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {
+    "D:\\HOCTAP\\Group4_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
+        "projectUniqueName": "D:\\HOCTAP\\Group4_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
         "projectName": "Bai4",
-        "projectPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
-        "packagesPath": "C:\\Users\\21521\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\lab04\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\obj\\",
-=======
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
-        "projectName": "Bai4",
-        "projectPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
-        "packagesPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Desktop\\Nhóm 4\\Group_04_NT106\\LAB04\\Bai4\\Bai4\\obj\\",
->>>>>>> QuocKhanh
+        "projectPath": "D:\\HOCTAP\\Group4_NT106\\LAB04\\Bai4\\Bai4\\Bai4.csproj",
+        "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
+        "outputPath": "D:\\HOCTAP\\Group4_NT106\\LAB04\\Bai4\\Bai4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\21521\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

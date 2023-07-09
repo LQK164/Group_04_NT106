@@ -58,7 +58,7 @@ namespace TCP_server
     class Client
     {
         int serverport = 8888;
-        IPAddress serverAddr = IPAddress.Parse("127.0.0.1");
+        IPAddress serverAddr = IPAddress.Parse("172.20.10.5");
         TcpClient client = new TcpClient();
 
         public void Connect()

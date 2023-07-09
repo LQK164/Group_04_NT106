@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj": {}
+    "D:\\HOCTAP\\Group4_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj": {
+    "D:\\HOCTAP\\Group4_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
+        "projectUniqueName": "D:\\HOCTAP\\Group4_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
         "projectName": "Bai 2 IMAP",
-        "projectPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
-        "packagesPath": "C:\\Users\\21521\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\21521\\OneDrive\\Máy tính\\New folder\\Group_04_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\obj\\",
+        "projectPath": "D:\\HOCTAP\\Group4_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\Bai 2 IMAP.csproj",
+        "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
+        "outputPath": "D:\\HOCTAP\\Group4_NT106\\LAB05\\Bai 2 IMAP\\Bai 2 IMAP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\21521\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -21,7 +21,7 @@ namespace Bai4
         }
 
         private TcpClient tcpClient;
-        IPEndPoint server_endpoint = new IPEndPoint(IPAddress.Loopback, 10000);
+        IPEndPoint server_endpoint = new IPEndPoint(IPAddress.Parse("172.20.10.5"), 8080);
         private delegate void MessageDelegate(string message);
         private delegate void ParticipantsDelegate(string username);
         private delegate void OnConnectEventHandler(bool is_connected);

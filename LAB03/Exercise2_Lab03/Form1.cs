@@ -34,9 +34,10 @@ namespace Telnet_TCP_listener
             byte[] recv = new byte[1024];
             Socket clientSocket;
             Socket listenerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp); 
-            IPEndPoint ipepServer = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8080);
+            IPEndPoint ipepServer = new IPEndPoint(IPAddress.Parse("172.20.10.3"), 8080);
             listenerSocket.Bind(ipepServer);
-            listenerSocket.Listen(-1); 
+            listenerSocket.Listen(1);
+            listen.Enabled = false;
             clientSocket = listenerSocket.Accept();
             listViewCommand.Items.Add(new ListViewItem("New Client Connected"));
             while(clientSocket.Connected)

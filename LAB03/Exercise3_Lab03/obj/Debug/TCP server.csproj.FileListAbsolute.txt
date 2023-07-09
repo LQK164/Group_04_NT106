@@ -10,3 +10,15 @@ D:\Code\TCP server\obj\Debug\TCP server.csproj.GenerateResource.cache
 D:\Code\TCP server\obj\Debug\TCP server.csproj.CoreCompileInputs.cache
 D:\Code\TCP server\obj\Debug\TCP server.exe
 D:\Code\TCP server\obj\Debug\TCP server.pdb
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\bin\Debug\TCP server.exe.config
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\bin\Debug\TCP server.exe
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\bin\Debug\TCP server.pdb
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.csproj.AssemblyReference.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP_server.Server.resources
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP_server.Properties.Resources.resources
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP_server.test_client.resources
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.csproj.GenerateResource.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.exe
+D:\HOCTAP\Group4_NT106\LAB03\Exercise3_Lab03\obj\Debug\TCP server.pdb

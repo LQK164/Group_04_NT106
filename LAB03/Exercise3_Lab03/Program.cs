@@ -17,7 +17,7 @@ namespace TCP_server
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Thread server = new Thread(() =>
+            /*Thread server = new Thread(() =>
             {
                 Application.Run(new Server());
             });
@@ -26,7 +26,8 @@ namespace TCP_server
                 Application.Run(new test_client());
             });
             server.Start();
-            client.Start();
+            client.Start();*/
+            Application.Run(new test_client());
         }
     }
 }

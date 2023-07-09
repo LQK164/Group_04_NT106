@@ -58,3 +58,22 @@ C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Bai4\Bai4\obj
 C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.genruntimeconfig.cache
 C:\Users\User.DESKTOP-CTIQ4C3\Desktop\Nhóm 4\Group_04_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\ref\Bai4.dll
 >>>>>>> QuocKhanh
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Bai4.exe
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Bai4.deps.json
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Bai4.runtimeconfig.json
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Bai4.dll
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Bai4.pdb
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.csproj.AssemblyReference.cache
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.Form1.resources
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.csproj.GenerateResource.cache
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.AssemblyInfoInputs.cache
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.AssemblyInfo.cs
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.csproj.CopyComplete
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.dll
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\refint\Bai4.dll
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.pdb
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\Bai4.genruntimeconfig.cache
+D:\HOCTAP\Group4_NT106\LAB04\Bai4\Bai4\obj\Debug\net7.0-windows\ref\Bai4.dll

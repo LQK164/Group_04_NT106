@@ -42,3 +42,25 @@ C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Ba
 C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.pdb
 C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.genruntimeconfig.cache
 C:\Users\21521\OneDrive\Máy tính\New folder\Group_04_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\ref\Bai 2 IMAP.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.exe
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.deps.json
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.runtimeconfig.json
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\Bai 2 IMAP.pdb
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MailKit.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\bin\Debug\net7.0-windows\MimeKit.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.AssemblyReference.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai_2_IMAP.IMAP.resources
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.GenerateResource.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.AssemblyInfoInputs.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.AssemblyInfo.cs
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.csproj.CopyComplete
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\refint\Bai 2 IMAP.dll
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.pdb
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\Bai 2 IMAP.genruntimeconfig.cache
+D:\HOCTAP\Group4_NT106\LAB05\Bai 2 IMAP\Bai 2 IMAP\obj\Debug\net7.0-windows\ref\Bai 2 IMAP.dll

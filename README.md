@@ -6,6 +6,6 @@ Excercises:
   + Call API (status: done)
   + Lab 3: Sockets programming in C# (status: done)
   + Lab 4: Web server in C# (status: done)
-  + Lab 5: Mail server in C# (status: in progress)
+  + Lab 5: Mail server in C# (status: done)
   
 >>>>>>> Footer

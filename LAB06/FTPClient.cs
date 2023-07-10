@@ -212,5 +212,117 @@ namespace LAB06
                 MessageBox.Show("Error!");
             }
         }
+
+        public string getFileDateTime()
+        {
+            try
+            {
+                uri = GetUri(current_folder, file);
+                FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
+                ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
+                ftpRequest.UseBinary = true;
+                ftpRequest.UsePassive = true;
+                ftpRequest.KeepAlive = true;
+                ftpRequest.Method = WebRequestMethods.Ftp.GetDateTimestamp;
+                FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
+                DateTime file_time = ftpResponse.LastModified;
+                ftpResponse.Close();
+                ftpRequest = null;
+                return file_time.ToString();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Get date failed!" + '\n' + ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return "Error";
+            }
+        }
+
+        public void Rename(string newFileName)
+        {
+            try
+            {
+                uri = GetUri(current_folder, file);
+                FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
+                ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
+                ftpRequest.UseBinary = true;
+                ftpRequest.UsePassive = true;
+                ftpRequest.KeepAlive = true;
+                ftpRequest.Method = WebRequestMethods.Ftp.Rename;
+                ftpRequest.RenameTo = newFileName;
+                FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
+                ftpResponse.Close();
+                ftpRequest = null;
+                MessageBox.Show("Renaming successfully!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Renaming failed!" + '\n' +ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            return;
+        }
+
+        public long getFileSize()
+        {
+            try
+            {
+                uri = GetUri(current_folder, file);
+                FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
+                ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
+                ftpRequest.UseBinary = true;
+                ftpRequest.UsePassive = true;
+                ftpRequest.KeepAlive = true;
+                ftpRequest.Method = WebRequestMethods.Ftp.GetFileSize;
+                FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
+                long size = ftpResponse.ContentLength;
+                ftpResponse.Close();
+                ftpRequest = null;
+                return size;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Get size failed!" + '\n' + ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return 0;
+            }
+        }
+
+        private void btn_Get_Time_Click(object sender, EventArgs e)
+        {
+            if (lvDisplay.SelectedItems.Count > 0)
+            {
+                file = lvDisplay.SelectedItems[0].Text;
+                MessageBox.Show(getFileDateTime(), "Result:", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Please choose a file", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btn_Rename_Click(object sender, EventArgs e)
+        {
+            if (lvDisplay.SelectedItems.Count > 0 && txt_New_name.Text != "")
+            {
+                file = lvDisplay.SelectedItems[0].Text;
+                Rename(txt_New_name.Text);
+            }
+            else
+            {
+                MessageBox.Show("Please choose a file and type a new name first!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btn_Size_Click(object sender, EventArgs e)
+        {
+            if (lvDisplay.SelectedItems.Count > 0)
+            {
+                file = lvDisplay.SelectedItems[0].Text;
+                long file_size = getFileSize();
+                MessageBox.Show(file_size.ToString() + " bytes", "Result:", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Please choose a file", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
     }
 }

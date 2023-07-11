@@ -27,6 +27,16 @@ namespace LAB06
         private string last_folder = "";
         private string file = "";
 
+        private void frmLab6_Load(object sender, EventArgs e)
+        {
+            btnUpload.Enabled = false;
+            btnDownload.Enabled = false;
+            btnRefresh.Enabled = false;
+            btnGetDate.Enabled = false;
+            btnRename.Enabled = false;
+            btnGetSize.Enabled = false;
+        }
+
         private string GetUri(string folder, string file)
         {
             return $"ftp://{txtServerIP.Text}/{folder}{file}";
@@ -63,8 +73,18 @@ namespace LAB06
                 string[] tokens = line.Split(new string[] { " " }, 9, StringSplitOptions.RemoveEmptyEntries);
                 ListViewItem token = new ListViewItem(tokens[8]);
                 int size = int.Parse(tokens[4]);
-                token.SubItems.Add(size / 1024 + " KB");
+
+                if (size > 0 && size < 1024)
+                {
+                    token.SubItems.Add("1 KB");
+                }
+                else
+                {
+                    token.SubItems.Add(size / 1024 + " KB");
+                }
+
                 token.SubItems.Add($"{tokens[5]} {tokens[6]} {tokens[7]}");
+
                 if (tokens[0].Substring(0, 1) == "d")
                 {
                     token.SubItems.Add("Folder");
@@ -73,6 +93,7 @@ namespace LAB06
                 {
                     token.SubItems.Add(tokens[8].Substring(tokens[8].LastIndexOf('.') + 1).ToUpper());
                 }
+
                 lvDisplay.Items.Add(token);
             }
         }
@@ -102,13 +123,21 @@ namespace LAB06
             try
             {
                 DisplayDetails(uri);
+
                 btnConnect.Enabled = false;
+                btnUpload.Enabled = true;
+                btnDownload.Enabled = true;
+                btnRefresh.Enabled = true;
+                btnGetDate.Enabled = true;
+                btnRename.Enabled = true;
+                btnGetSize.Enabled = true;
                 txtServerIP.ReadOnly = txtUsername.ReadOnly = txtPassword.ReadOnly = true;
+
                 MessageBox.Show("Connect to FTP Server successfully!");
             }
             catch
             {
-                MessageBox.Show("Connection failed! Please try again!");
+                MessageBox.Show("Connection failed! Please try again!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -196,7 +225,7 @@ namespace LAB06
             }
             else
             {
-                MessageBox.Show("Please choose a file, not a folder!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Please choose a file, not a folder!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -209,21 +238,20 @@ namespace LAB06
             }
             catch
             {
-                MessageBox.Show("Error!");
+                MessageBox.Show("Error!", "", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
-        public string getFileDateTime()
+        public string GetFileDateTime()
         {
             try
             {
                 uri = GetUri(current_folder, file);
+
                 FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
                 ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
-                ftpRequest.UseBinary = true;
-                ftpRequest.UsePassive = true;
-                ftpRequest.KeepAlive = true;
                 ftpRequest.Method = WebRequestMethods.Ftp.GetDateTimestamp;
+
                 FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
                 DateTime file_time = ftpResponse.LastModified;
                 ftpResponse.Close();
@@ -232,7 +260,7 @@ namespace LAB06
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Get date failed!" + '\n' + ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Getting date failed!" + '\n' + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return "Error";
             }
         }
@@ -242,13 +270,12 @@ namespace LAB06
             try
             {
                 uri = GetUri(current_folder, file);
+
                 FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
                 ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
-                ftpRequest.UseBinary = true;
-                ftpRequest.UsePassive = true;
-                ftpRequest.KeepAlive = true;
                 ftpRequest.Method = WebRequestMethods.Ftp.Rename;
                 ftpRequest.RenameTo = newFileName;
+
                 FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
                 ftpResponse.Close();
                 ftpRequest = null;
@@ -256,22 +283,20 @@ namespace LAB06
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Renaming failed!" + '\n' +ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Renaming failed!" + '\n' +ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            return;
         }
 
-        public long getFileSize()
+        public long GetFileSize()
         {
             try
             {
                 uri = GetUri(current_folder, file);
+
                 FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(uri));
                 ftpRequest.Credentials = new NetworkCredential(txtUsername.Text, txtPassword.Text);
-                ftpRequest.UseBinary = true;
-                ftpRequest.UsePassive = true;
-                ftpRequest.KeepAlive = true;
                 ftpRequest.Method = WebRequestMethods.Ftp.GetFileSize;
+
                 FtpWebResponse ftpResponse = (FtpWebResponse)ftpRequest.GetResponse();
                 long size = ftpResponse.ContentLength;
                 ftpResponse.Close();
@@ -280,25 +305,26 @@ namespace LAB06
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Get size failed!" + '\n' + ex, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Getting size failed!" + '\n' + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return 0;
             }
         }
 
-        private void btn_Get_Time_Click(object sender, EventArgs e)
+        private void btnGetDate_Click(object sender, EventArgs e)
         {
             if (lvDisplay.SelectedItems.Count > 0)
             {
                 file = lvDisplay.SelectedItems[0].Text;
-                MessageBox.Show(getFileDateTime(), "Result:", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                string date = GetFileDateTime();
+                MessageBox.Show(date, "Last Modified:", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show("Please choose a file", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please choose a file/folder", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
-        private void btn_Rename_Click(object sender, EventArgs e)
+        private void btnRename_Click(object sender, EventArgs e)
         {
             if (lvDisplay.SelectedItems.Count > 0 && txt_New_name.Text != "")
             {
@@ -311,12 +337,12 @@ namespace LAB06
             }
         }
 
-        private void btn_Size_Click(object sender, EventArgs e)
+        private void btnGetSize_Click(object sender, EventArgs e)
         {
             if (lvDisplay.SelectedItems.Count > 0)
             {
                 file = lvDisplay.SelectedItems[0].Text;
-                long file_size = getFileSize();
+                long file_size = GetFileSize();
                 MessageBox.Show(file_size.ToString() + " bytes", "Result:", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
